@@ -8,13 +8,17 @@ table,td,th{
 th{
 	border: 1px solid black;
 	height: 10px;
-	padding: 15px;
-	text-align: left;	
+	padding: 1px;
+	text-align: left;
+	background-color: red;
 }
 td{
    border: 1px solid black;
-	height: 45px;
-	padding: 2px;
+	height: 4px;
+	width:100px;
+	padding: 1px;
 	text-align: right;
+	text-align: left;
 	
 }
+
